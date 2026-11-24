@@ -49,3 +49,7 @@ For full web verification and deep redirect chain inspections:
 ## Technical SEO and Site Migration Advisory
 
 For platforms operating across Australia under W3C Standards and Australian Digital Performance Architecture, contact **TAVARDT Australia**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
