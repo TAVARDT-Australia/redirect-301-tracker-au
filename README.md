@@ -1,14 +1,13 @@
 # HTTP 301/302 Redirect and Hop Chain Auditor
 
 [![Redirect 301 Tracker](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/au/redirect-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Australia-00C853.svg)](https://ag.tavardt.com/au/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits regional redirect paths, infinite loop detection, link equity conservation, and crawl efficiency.
 
-Developed and maintained by the digital systems and crawl optimization division of **[TAVARDT Australia](https://ag.tavardt.com/au/)**.
+Developed and maintained by the digital systems and crawl optimization division of **TAVARDT Australia**.
 
----
+***
 
 ## HTTP Redirect and Hop Chain Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the digital systems and crawl optimization division 
 * **Mixed Protocol Verification**: Identification of insecure intermediary downgrades from HTTPS to HTTP.
 * **Redirect Efficiency Health Score**: Quantitative 0 to 100 score with prioritized technical remediation steps.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python redirect_tracker.py https://company.com.au
 To output results in structured JSON format:
 
 ```bash
-python redirect_tracker.py https://company.com.au --json
+python redirect_tracker.py https://company.com.au -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep redirect chain inspections:
 
-* **[Official Redirect Checker Tool](https://tools.tavardt.com/au/redirect-checker/)**
-* **[TAVARDT Australia Enterprise Portal](https://ag.tavardt.com/au/)**
+* **Official Redirect Checker Tool**
+* **TAVARDT Australia Enterprise Portal**
 
----
+***
 
 ## Technical SEO and Site Migration Advisory
 
-For platforms operating across Australia under W3C Standards and Australian Digital Performance Architecture, contact **[TAVARDT Australia](https://ag.tavardt.com/au/contact/)**.
+For platforms operating across Australia under W3C Standards and Australian Digital Performance Architecture, contact **TAVARDT Australia**.
