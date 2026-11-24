@@ -5,7 +5,7 @@
 
 Audits regional redirect paths, infinite loop detection, link equity conservation, and crawl efficiency.
 
-Developed and maintained by the digital systems and crawl optimization division of **TAVARDT Australia**.
+Developed and maintained by the digital systems and crawl optimization division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://company.com.au -json
 For full web verification and deep redirect chain inspections:
 
 * **Official Redirect Checker Tool**
-* **TAVARDT Australia Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Technical SEO and Site Migration Advisory
 
-For platforms operating across Australia under W3C Standards and Australian Digital Performance Architecture, contact **TAVARDT Australia**.
+For platforms operating across Australia under W3C Standards and Australian Digital Performance Architecture, contact **TAVARDT**.
 
 ***
 
